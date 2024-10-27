@@ -78,7 +78,7 @@ while running:
         
         if sprite1.rect.colliderect(sprite3.rect): all_sprites.remove(sprite3)
         if sprite1.rect.colliderect(sprite4.rect): all_sprites.remove(sprite4)
-        if sprite1.rect.colliderect(sprite2.rect): all_sprites.remove(sprite5)
+        if sprite1.rect.colliderect(sprite5.rect): all_sprites.remove(sprite5)
         
         
         
